@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alicja Świercz</h1>
 <h3 align="center">A passionate programmer and game developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
 
 - 🔭 I’m currently working on [2.5D Shadow Game](https://github.com/alicjaswiers/2.5D_Game_Shadow)
