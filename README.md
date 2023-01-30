@@ -3,14 +3,6 @@
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
 
-- 🔭 I’m currently working on [2.5D Shadow Game](https://github.com/alicjaswiers/2.5D_Game_Shadow)
-
-- 🌱 I’m currently learning **GDScript**
-
-- 📫 How to reach me **alicjaswiers@gmail.com**
-
-- ⚡ Fun fact **I love my cat - Leya**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alicja-świercz-166805250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicja świercz" height="30" width="40" /></a>
