@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alicja Świercz</h1>
-<h3 align="center">A passionate programmer and game developer</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
 
